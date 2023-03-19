@@ -39,7 +39,7 @@ bot.run(Token)
 
 # intents = discord.Intents.default()
 # intents.message_content = True
-# token = 'MTA4NjgzOTc4Mzc4MDc5ODQ5Ng.GWKdOr.KbFPHvJ6O5Fb7iZ3VPjK5ncjZye_gcXwP1rEZM'
+# token = ''
 
 # client = discord.Client(intents=intents)
 
